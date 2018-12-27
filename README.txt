@@ -2,4 +2,4 @@ first file
 
 giangnb@rikkeisoft.commm
 
-giangnbd00352@fpt.edu.vn
+giangnbd00352@fpt.edu.vnnn
